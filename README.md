@@ -1,6 +1,6 @@
 # AI Mental Health Tracker
 
-Mental health is a critical aspect of overall well-being, and timely monitoring and intervention can significantly improve outcomes. The AI Mental Health Tracker leverages advanced machine learning techniques, including Linear Regression, Random Forest, and Decision Tree models, to predict and assess mental health conditions. By analyzing various data the model provides insights and predictions related to mental health states.<br>
+Mental health is a critical aspect of overall well-being, and timely monitoring and intervention can significantly improve outcomes. The AI Mental Health Tracker leverages advanced machine learning techniques, including <b>Linear Regression<b>, <b>Random Forest<b>, and <b>Decision Tree models<b>, to predict and assess mental health conditions. By analyzing various data the model provides insights and predictions related to mental health states.<br>
 The AI Mental Health Tracker is an AI-driven model and is not intended to replace professional medical advice or diagnosis but to help the doctors and other healthcare professionals who will use the tracker to help their patients improve their mental health.
 
 
